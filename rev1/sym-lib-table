@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name random-keyboard-parts)(type Legacy)(uri "D:/Keyboard Design/PCBs/TheStrkr/FTRM60/lib/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "D:/Keyboard Design/PCBs/TheStrkr/FTRM60/lib/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name SM04B-SRSS-TB_LF__SN_)(type Legacy)(uri "D:/Keyboard Design/PCBs/TheStrkr/FTRM60/lib/JST/SM04B-SRSS-TB_LF__SN_.lib")(options "")(descr ""))
+  (lib (name atmega32u4)(type Legacy)(uri "D:/Keyboard Design/PCBs/TheStrkr/FTRM60/lib/atmega32u4.lib")(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri "D:/Keyboard Design/PCBs/TheStrkr/FTRM60/lib/power.lib")(options "")(descr ""))
+)

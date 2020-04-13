@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name JST)(type KiCad)(uri "D:/Keyboard Design/PCBs/TheStrkr/FTRM60/lib/JST")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri "D:/Keyboard Design/PCBs/TheStrkr/FTRM60/lib/MX_Alps_Hybrid")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri "D:/Keyboard Design/PCBs/TheStrkr/FTRM60/lib/random-keyboard-parts.pretty")(options "")(descr ""))
+)
